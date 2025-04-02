@@ -13,5 +13,5 @@
 
 ---  
 
-## Aktuell lerne ich  
+## Currntly learning
 🛠 **Python**  
