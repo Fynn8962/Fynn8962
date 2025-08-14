@@ -1,7 +1,7 @@
 # IMS Student  
 **Fynn Huber**               
 **17**                
-**3nd Year at Berufsfachschule BBB Baden**  
+**3rd Year at Berufsfachschule BBB Baden**  
 
 ---  
 
