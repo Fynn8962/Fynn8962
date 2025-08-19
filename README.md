@@ -11,6 +11,7 @@
 ✔ **SQL Server Management Studio**  
 ✔ **Windows PowerShell**  
 ✔ **Python**
+
 ---  
 
 ## Currntly learning
