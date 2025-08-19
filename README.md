@@ -15,3 +15,4 @@
 
 ## Currntly learning
 🛠 **Python**  
+🛠 **DevOps**
