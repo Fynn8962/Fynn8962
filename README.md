@@ -10,9 +10,11 @@
 ✔ **HTML, CSS, JavaScript**  
 ✔ **SQL Server Management Studio**  
 ✔ **Windows PowerShell**  
-
+✔ **Python**
 ---  
 
 ## Currntly learning
-🛠 **Python**  
+  
 🛠 **DevOps**
+🛠**React**
+
