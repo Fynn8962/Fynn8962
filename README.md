@@ -15,6 +15,6 @@
 
 ## Currntly learning
   
-🛠 **DevOps**
-🛠**React**
+🛠 **DevOps**            
+🛠 **React**
 
