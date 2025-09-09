@@ -18,8 +18,8 @@
 
 ## Currntly learning
   
-🛠 **DevOps**            
-🛠 **React**
-🛠 **TypeScript**
-🛠 **React Nativ**
+🛠 **DevOps**                         
+🛠 **React**                
+🛠 **TypeScript**               
+🛠 **React Nativ**               
 
