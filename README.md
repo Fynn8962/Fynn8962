@@ -20,4 +20,6 @@
   
 🛠 **DevOps**            
 🛠 **React**
+🛠 **TypeScript**
+🛠 **React Nativ**
 
