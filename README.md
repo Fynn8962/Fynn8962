@@ -13,8 +13,8 @@
 ✔ **HTML, CSS, JavaScript**  
 ✔ **SQL Server Management Studio**  
 ✔ **Windows PowerShell**  
-✔ **Python**
-🛠 **DevOps** 
+✔ **Python**                           
+✔ **DevOps** 
 
 ---
 
