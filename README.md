@@ -23,7 +23,7 @@
  
 🛠 **React**  
 🛠 **TypeScript**  
-🛠 **React Nativ**
+🛠 **React Nativ**                           
 🛠 **Unity-Technologies**
 
 
