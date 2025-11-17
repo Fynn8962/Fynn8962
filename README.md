@@ -14,14 +14,16 @@
 ✔ **SQL Server Management Studio**  
 ✔ **Windows PowerShell**  
 ✔ **Python**
+🛠 **DevOps** 
 
 ---
 
 ## Currntly learning
 
-🛠 **DevOps**  
+ 
 🛠 **React**  
 🛠 **TypeScript**  
 🛠 **React Nativ**
+🛠 **Unity-Technologies**
 
 
