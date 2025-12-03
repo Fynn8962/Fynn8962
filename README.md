@@ -1,7 +1,7 @@
 # IMS Student
 
 **Fynn Huber**  
-**17**  
+**18**  
 **3rd Year at Berufsfachschule BBB Baden**  
 **More Infos here** 👉 [My Portfolio](https://fynn8962.github.io)
 
