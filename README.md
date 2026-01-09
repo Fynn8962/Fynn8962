@@ -14,8 +14,8 @@
 ✔ **SQL Server Management Studio**  
 ✔ **Windows PowerShell**  
 ✔ **Python**                           
-✔ **DevOps** 
-
+✔ **DevOps**            
+✔ **Unity-Technologies**
 ---
 
 ## Currntly learning
@@ -24,6 +24,6 @@
 🛠 **React**  
 🛠 **TypeScript**  
 🛠 **React Nativ**                           
-🛠 **Unity-Technologies**
+
 
 
