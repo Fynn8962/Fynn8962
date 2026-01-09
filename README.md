@@ -16,10 +16,10 @@
 ✔ **Python**                           
 ✔ **DevOps**            
 ✔ **Unity-Technologies**
+
 ---
 
 ## Currntly learning
-
  
 🛠 **React**  
 🛠 **TypeScript**  
