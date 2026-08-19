@@ -1,10 +1,11 @@
 # IMS Student
 
-**Fynn Huber**  
-**18y**  
-**4th-Year apprentice in Computer Science (EFZ)**                     
-**Working @ FHNW at the [Institute of Interactive Technologies](https://www.fhnw.ch/en/computer-science/about/institutes/interactive-technologies)**  
+* **Fynn Huber**  
+* **18y**  
+* **4th-Year apprentice in Computer Science (EFZ)**                     
+* **Working @ FHNW at the [Institute of Interactive Technologies](https://www.fhnw.ch/en/computer-science/about/institutes/interactive-technologies)**  
 <br>
+
 **More Infos here** 👉 [My Portfolio](https://fynn8962.github.io)
 
 ---
