@@ -17,15 +17,17 @@
 ✔ **Windows PowerShell**  
 ✔ **Python**                           
 ✔ **DevOps**            
-✔ **Unity-Technologies**
+
+<br>
+
+### Familiar With
+🔹 **React** / **React Nativ**    
+🔹 **TypeScript**  
+🔹 **Unity-Technologies**
 
 ---
 
 ## Currntly learning
- 
-🛠 **React**  
-🛠 **TypeScript**  
-🛠 **React Nativ**                           
-
+🛠 **Speech Recognition / Working with ASR-Models**
 
 
